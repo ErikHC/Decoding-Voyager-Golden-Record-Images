@@ -10,7 +10,7 @@ The processed images I've provided are diagonal as a consequence of the "eyeball
 
 I've also used the librosa library to plot the power spectrogram of the Calibration Circle's audio which, though only processing the signal's harmonic magnitudes over *time*, was able to produce an image of a semicircles that "echo" across the spectrum. I'm not versed in DSP but I would imagine processes related to this would produce a more accurate image.
 
-The Calibration circle (left audio channel's first image):
+The Calibration Circle (left audio channel's first image):
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCircle_2022-07-27.png?raw=true "Calibration Circle")
 
