@@ -23,3 +23,7 @@ Detail of the Milky Way (part of left audio channel's second image)
 Mathematical Definitions (left audio channel's third image)
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/MathDefs_2022-07-27.png?raw=true "Mathematical Definitions")
+
+
+Power Spectrogram:
+![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCirclePowerSpec.png?raw=true)
