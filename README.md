@@ -30,7 +30,7 @@ Power Spectrogram:
 
 ## Understanding Audio playback on the Record Glyphs
 
-![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg?raw=true =443x443 "'The Sounds of Earth' Front Cover")
+![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg?raw=true =443x443)
 
 The front cover features glyphs that hint at universal constants to aid extraterrestrial life in properly extracting the information it contains. The cover includes a binary number system where '|' and '-' correspond to '1' and '0' respectively. The key to understanding the seemingly arbitrary binary number system is found in the bottom right glyph. The glyph is two circles connected with a horizontal line in between them. Each circle contains a "pinpoint" in their center and another pinpoint that, for left circle, points out and, for the right circle, points in. This glyph hints at the time it takes for the electron in a neutral hydrogen atom to transition to a higher energy state: 0.7e-9 seconds. With this constant, we can then scale the binary numbers to create a timing system for the playback devices.
 
