@@ -12,14 +12,14 @@ I've also used the librosa library to plot the power spectrogram of the Calibrat
 
 The three images I've included are:
 
-• The Calibration circle (left audio channel's first image)
+The Calibration circle (left audio channel's first image)
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCircle_2022-07-27.png?raw=true "Calibration Circle")
 
-• Detail of the Milky Way (part of left audio channel's second image)
+Detail of the Milky Way (part of left audio channel's second image)
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/EnhancedMilkyWayDetail_2022-07-27.png?raw=true "Milky Way detail")
 
-• Mathematical Definitions (left audio channel's third image)
+Mathematical Definitions (left audio channel's third image)
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/MathDefs_2022-07-27.png?raw=true "Mathematical Definitions")
