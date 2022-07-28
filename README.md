@@ -14,12 +14,12 @@ The three images I've included are:
 
 • The Calibration circle (left audio channel's first image)
 
-![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/9605e6579b6cb84f387346d9a9d25fc1809f1f8d/EnhancedMilkyWayDetail_2022-07-27.png "Calibration Circle")
+![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCircle_2022-07-27.png?raw=true "Calibration Circle")
 
 • Detail of the Milky Way (part of left audio channel's second image)
 
-(https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/EnhancedMilkyWayDetail_2022-07-27.png?raw=true "Milky Way detail")
+![]((https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/EnhancedMilkyWayDetail_2022-07-27.png?raw=true "Milky Way detail")
 
 • Mathematical Definitions (left audio channel's third image)
 
-(https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/MathDefs_2022-07-27.png?raw=true "Mathematical Definitions")
+![]((https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/MathDefs_2022-07-27.png?raw=true "Mathematical Definitions")
