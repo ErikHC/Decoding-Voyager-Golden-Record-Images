@@ -26,4 +26,5 @@ Mathematical Definitions (left audio channel's third image)
 
 
 Power Spectrogram:
+
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCirclePowerSpec.png?raw=true)
