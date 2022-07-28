@@ -28,7 +28,7 @@ Power Spectrogram:
 
 ![](https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/CalibrationCirclePowerSpec.png?raw=true)
 
-## Understanding Audio playback on the Record Glyphs
+## Understanding Audio Playback on the Record Glyphs
 
 <img src="https://github.com/ErikHC/Decoding-Voyager-Golden-Record-Images/blob/main/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg" width="443" height="443"/>
 
