@@ -19,7 +19,6 @@ def waveform_info(sample_array, array_print=False):
 
 def normalize_waveform(sample_array):
     """Normalizes NumPy array data to range of 0:1 and scales to 255 for RGB"""
-    # round()?
     return 255 * (sample_array - np.min(sample_array)) / (np.max(sample_array) - np.min(sample_array))
 
 
